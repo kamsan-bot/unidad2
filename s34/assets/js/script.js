@@ -68,4 +68,5 @@ console.log("reduce");
 console.log(nums.reduce((a,b) => a + b, 0));
 
 console.log(nums.reduce((a,b) => a * b, 1));
+console.log("=========");
 
